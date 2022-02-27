@@ -1,0 +1,4 @@
+#include "Pods/Target Support Files/Pods-Weather/Pods-Weather.debug.xcconfig"
+
+API_BASE_URL = api.example.com
+OTHER_SWIFT_FLAGS = $(inherited) -v Release
